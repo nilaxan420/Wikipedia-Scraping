@@ -1,7 +1,7 @@
 import openai
 from scraper import returnTitles
 
-openai.api_key = "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"
+
 
 headlines = returnTitles()
 
